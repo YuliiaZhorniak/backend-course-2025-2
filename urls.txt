@@ -1,0 +1,2 @@
+course://web.backend/blog?name=%22Yuliia%20Zhorniak%22&group=%22FEI-22c%22&subgroup=%22subgroup%202%22
+
