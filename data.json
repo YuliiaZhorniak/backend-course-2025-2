@@ -1,1 +1,12 @@
-<error>invalid request</error>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="0;url='/ua/NBUStatusService/v1/statdirectory/inflation?date=202302&amp;json&amp;period=m'" />
+
+        <title>Redirecting to /ua/NBUStatusService/v1/statdirectory/inflation?date=202302&amp;json&amp;period=m</title>
+    </head>
+    <body>
+        Redirecting to <a href="/ua/NBUStatusService/v1/statdirectory/inflation?date=202302&amp;json&amp;period=m">/ua/NBUStatusService/v1/statdirectory/inflation?date=202302&amp;json&amp;period=m</a>.
+    </body>
+</html>
