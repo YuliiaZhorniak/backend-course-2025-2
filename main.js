@@ -8,10 +8,4 @@ const url = new URL(path, base);
 url.searchParams.set('period', time_period);
 url.searchParams.set('date', date);
 
-if (url.search) {
-  url.search += '&json';
-} else {
-  url.search = '?json';
-}
-
 console.log(url.toString());
