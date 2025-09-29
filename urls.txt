@@ -1,3 +1,6 @@
 course://web.backend/blog?name=%22Юлія%20Жорняк%22&group=%22FEI-22c%22&subgroup=%22subgroup%202%22#YuliiaZhorniak
 
-https://bank.gov.ua/NBUStatusService/v1/statdirectory/inflation?date=202302&frequency=m&json
+
+
+
+https://bank.gov.ua/NBUStatService/v1/statdirectory/inflation?date=202302&json&period=m
